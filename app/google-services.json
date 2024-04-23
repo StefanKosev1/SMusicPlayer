@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "265623665930",
+    "project_id": "fck-you-fb1d6",
+    "storage_bucket": "fck-you-fb1d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265623665930:android:84e4290f8f2b8de6b70ef3",
+        "android_client_info": {
+          "package_name": "com.example.killmyself"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkFXS7gyfEdAwKCMY_iRWasiWeTdgRQv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265623665930:android:cc9c8f1df6d6d058b70ef3",
+        "android_client_info": {
+          "package_name": "com.example.smusicplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkFXS7gyfEdAwKCMY_iRWasiWeTdgRQv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
